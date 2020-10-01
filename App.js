@@ -26,6 +26,7 @@ export default class App extends Component {
      coordinates:{
        latitude:0,
        longitude:0
+      {}
      }
    }
  ]
